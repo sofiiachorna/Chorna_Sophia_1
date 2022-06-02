@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WwvjrjHQMToXnWZs2vpiMThqhQISoHdBe69Uklhz3t7Wx4jadhqNp7P+ynu68yxusuHYEcBv5QWCduS4qjBQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sophia\\source\\repos\\Lab 1\\Lab 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sophia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
